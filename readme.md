@@ -8,7 +8,7 @@ created: 17 Jul 2017
 updated: 12 Nov 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# [S.H.A.P.E. (SHAPE)][C:url]
+# [Spectro-polarimetry of Habitable Planet Earth (SHAPE)][C:url]
 
 <small><i> — post will self update; latest readme always on GitHub. most images are links —</i></small>
 
@@ -20,6 +20,8 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 *blurb*
 
+On the propulsion module: Spectro-polarimetry of Habitable Planet Earth (SHAPE) will study spectral and polarimetric measurements of Earth from the lunar orbit in the near-infrared (NIR) wavelength range (1–1.7 μm). Findings of SHAPE might aid in future exoplanet research and search for extraterrestrial life.
+
 ## By [`zer0Kerbal`][zedk], originally by [`AUTH-NAME`][auth-link] with [`AUTH-NAME:1`][auth-link:1]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
@@ -27,6 +29,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 <img src="https://raw.githubusercontent.com/zer0Kerbal/SHAPE/master/img/HeroLogo.png" alt="SHAPE Hero" width="50%" height="50%">
 
 ### Preamble by [`zer0Kerbal`][zedK]
+
+[Bhāratīya Antarikṣa Anusandhān Saṅgaṭhan (ISRO)](https://en.wikipedia.org/wiki/ISRO)
+
+[Chandrayaan-3](https://en.wikipedia.org/wiki/Chandrayaan-3)
 
 > Tempor duis sit sunt pariatur sit quis nisi ex velit ipsum elit. Lorem enim nisi officia cillum duis aliquip nostrud excepteur aliqua quis quis quis. Nostrud occaecat mollit culpa irure fugiat culpa dolor qui excepteur mollit sint deserunt in. Id excepteur non cupidatat aute proident laborum non mollit excepteur et exercitation nostrud consectetur enim. Elit sit tempor in eiusmod fugiat commodo amet dolore in amet anim sint. Amet deserunt ullamco mollit. Sint magna culpa anim minim ea et ullamco id aute mollit.
 > Magna proident veniam est nulla velit sint aliquip est cillum fugiat duis adipisicing. Nostrud aliqua pariatur mollit irure eiusmod ipsum mollit incididunt ea labore aliqua occaecat sint voluptate magna. Tempor exercitation ea est veniam voluptate veniam reprehenderit cupidatat elit. Anim duis ad officia occaecat mollit quis. Deserunt culpa quis velit sit laborum cupidatat dolore est velit id aute dolore cillum qui est. Nulla nisi elit esse ea aliquip irure irure ea. Incididunt in esse ullamco mollit incididunt deserunt aliqua aliquip duis fugiat dolor irure mollit. Mollit do proident sint cupidatat ut nostrud ut cillum cillum ut sit cupidatat.
